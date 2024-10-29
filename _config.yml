@@ -1,4 +1,6 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman  # Change to your preferred theme
 title: Marina Pollak
 description: GitHub Portfolio
 logo: https://i.ibb.co/kHr4bLy/IMG-0282.jpg
+# Add custom CSS if needed
+custom_css: /assets/css/custom.css
