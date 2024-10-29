@@ -1,4 +1,4 @@
-# Marina Pollak
+# Programming Portfolio
 
 GitHub Portfolio
 
